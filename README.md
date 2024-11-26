@@ -39,3 +39,7 @@ Model Training:
 ### Streamlit Application
 
 A Streamlit web app has been developed to interact with the model. Users can input the soil and climate parameters to get real-time crop recommendations.
+
+### Source
+
+https://www.kaggle.com/datasets/atharvaingle/crop-recommendation-dataset
